@@ -1,0 +1,16 @@
+﻿3018,DATE_FILLED,CLAIM_NUMBER,MEMBER_ID,,,,,
+216,acct,accessfee,accountnum,frequency,frequency,Firstname,acct,acct
+217,Company_Name,ClinicID,ClinicName,PatientID,Lname,Firstname,SSN,Sex
+218,accessfee,ClinicID,ClinicName,PatientID,Lastname,First_name,SSN,Sex
+219,addr,ClinicID,qty,PatientID,Lastname,Firstname,SSN,Gender
+220,CompanyName,ClinicID,address5,qnty,Lastname,address4,SSN,Sex
+221,itsaccessfees,ClinicID,ClinicName,PatientID,Last_name,Fname,SSN,Sex
+222,CompanyName,Clinic_ID,ClinicName,Patient_ID,Lname,Firstname,SSN,Gender
+223,itsaccessfees,ClinicID,accttype,PatientID,L_name,First_name,SSN,Sex
+224,account6,Clinic_ID,ClinicName,Patient_ID,Lastname,Firstname,SSN,Sex
+225,acct1,ClinicID,Clinic_Name,PatientID,Lastname,Firstname,SSN,Gender
+226,CompanyName,ClinicID,ClinicName,PatientID,Lastname,F_name,SSN,Sex
+227,CompanyName,Clinic_ID,accttype,Patient_ID,Lastname,Firstname,SSN,Sex
+228,accountnum,ClinicID,Clinic_Name,PatientID,Lname,Firstname,SSN,Gender
+229,accountnum,ClinicID,ClinicName,PatientID,Last_name,Firstname,SSN,Sex
+230,CompanyName,CompanyName,ClinicName,PatientID,ClinicName,Firstname,SSN,frequencytext
